@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "GTA Vice City Play",
+  "version": "1.0",
+  "description": "Have fun",
+  "content_scripts": [
+    {
+      "matches": ["*://*.dos.zone/*", "*://dos.zone/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
