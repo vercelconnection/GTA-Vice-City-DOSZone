@@ -24,4 +24,4 @@ The extension should now appear in your list and be active.
 You can pin it to the toolbar by clicking the puzzle icon → the pin icon next to your extension.
 
 7. **Play GTA**
-Go to (https://cdn.dos.zone/vcsky/release/vc-sky-en-v6/index.html?lang=en)[https://cdn.dos.zone/vcsky/release/vc-sky-en-v6/index.html?lang=en] and choose "gta-vc.exe" file as original file and play game.
+Go to https://cdn.dos.zone/vcsky/release/vc-sky-en-v6/index.html?lang=en and choose "gta-vc.exe" file as original file and play game.
